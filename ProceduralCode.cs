@@ -10,3 +10,10 @@ public class ProceduralCode
 }
 
 // Add your code here
+public class Rectangle
+{
+    public int length = 5;
+    public int height = 10;
+
+
+}
