@@ -15,7 +15,7 @@ public class Rectangle
 
     public Rectangle(int length, int height){
         this.length = length;
-        this.height = height:
+        this.height = height;
     }
 
     public int CalculateArea(){
